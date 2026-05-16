@@ -5,7 +5,7 @@
 
 ## Demo Video
 
-https://youtu.be/
+https://youtu.be/x7D7FPmNbPc
 
 ## ClawHub
 
