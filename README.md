@@ -7,6 +7,14 @@
 
 https://youtu.be/
 
+## ClawHub
+
+https://clawhub.ai/web3senior/0g-clawback
+
+```bash
+openclaw skills install 0g-clawback
+```
+
 ## The ClawBack Skill
 ClawBack enables 'Stateless Resumption.' By referencing a 0G root hash, an OpenClaw agent can 'claw back' its encrypted memory logs and evolved skill sets from the 0G network, allowing it to resume operations on any machine without data loss.
 
