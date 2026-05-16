@@ -58,9 +58,9 @@ npm install
 
 Configure your environment variables by creating a .env file in the root directory:
 ```bash
+PRIVATE_KEY="0x4083026c087523ea5fe156f3ec9351838041574de0547f5da150a6d1c80d246a"
 RPC_URL="https://evmrpc-testnet.0g.ai"
 INDEXER_RPC="https://indexer-storage-testnet-turbo.0g.ai"
-PRIVATE_KEY="your_wallet_private_key"
 ```
 
 ## 📚 Documentation
